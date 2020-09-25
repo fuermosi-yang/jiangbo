@@ -46,6 +46,7 @@
     <dependencyManagement>
         <dependencies>
             <!-- springCloud -->
+            <!-- springCloud -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
@@ -54,6 +55,7 @@
                 <scope>import</scope>
             </dependency>
             <!-- mybatis启动器 -->
+ <!-- mybatis启动器 -->
             <dependency>
                 <groupId>org.mybatis.spring.boot</groupId>
                 <artifactId>mybatis-spring-boot-starter</artifactId>
